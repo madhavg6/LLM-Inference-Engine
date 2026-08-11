@@ -1,5 +1,5 @@
 ﻿venv/
-model/
+model/**/*.safetensors
 __pycache__/
 *.pyc
-.claude/
+.claude/settings.local.json
